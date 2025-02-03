@@ -1,2 +1,2 @@
 # Resume_Site
- My resume site,
+ My resume site
