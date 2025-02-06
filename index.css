@@ -1,0 +1,22 @@
+﻿body{
+    font-family: "Source Sans Pro", serif;
+}
+p{
+    font-size: 1.2em;
+}
+h5{
+    font-size: 1.5em;
+    color: aliceblue;
+}
+i{
+    font-size: 1.5em;
+}
+
+.greenLink{
+    color: aliceblue;
+}
+
+.inTheMiddleOfPageLink{
+    color: aliceblue;
+    font-size: 3em;
+}
